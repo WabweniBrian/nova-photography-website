@@ -1,1 +1,1 @@
-# Netbook Photography Landing Page
+# Nova Photography Landing Page
